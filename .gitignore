@@ -1,0 +1,14 @@
+.DS_Store
+
+# Keep lesson videos outside Git.
+*.mp4
+*.m4v
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wmv
+*.flv
+*.mpeg
+*.mpg
+*.3gp
