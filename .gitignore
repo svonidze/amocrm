@@ -12,3 +12,24 @@
 *.mpeg
 *.mpg
 *.3gp
+*.ogv
+*.vob
+*.mts
+*.m2ts
+
+# Local audio, intermediate results and private download URLs.
+work/
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.ogg
+*.flac
+*.aiff
+*.opus
+*.part
+*.ytdl
+*.tmp
+__pycache__/
+.env
+.env.*

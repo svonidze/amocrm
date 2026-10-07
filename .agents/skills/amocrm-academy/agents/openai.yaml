@@ -1,0 +1,4 @@
+interface:
+  display_name: "Академия amoCRM"
+  short_description: "Видео модулей amoCRM, транскрипты и конспекты"
+  default_prompt: "Используй $amocrm-academy для обработки выбранного видео или всех видео модуля Академии amoCRM."
