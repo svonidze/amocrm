@@ -93,14 +93,24 @@ yt-dlp по умолчанию продолжает загрузку .part. Го
 mkdir -p "$stage_dir"
 cd "$misc_root"
 ./.venv/bin/python -m audio.extract_audio "$lesson_dir/video.mp4" --format mp3 --output-dir "$stage_dir"
+ffmpeg -loglevel error -i "$stage_dir/video.mp3" -ac 1 -ar 16000 -b:a 64k -y "$stage_dir/normalized.mp3"
+ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$stage_dir/normalized.mp3"
+mv "$stage_dir/normalized.mp3" "$stage_dir/video.mp3"
 ./.venv/bin/python -m audio.transcribe_audio_api "$stage_dir/video.mp3" --provider elevenlabs --language auto --format md --output-dir "$stage_dir" --env-file .configs/.env
 ~~~
 
-Вторая команда разрешена только после согласования стоимости выбранного
+Команда транскрибации разрешена только после согласования стоимости выбранного
 пакета либо при наличии соответствующего разрешения в запросе пользователя.
 Тариф проверять по официальной странице ElevenLabs перед оценкой, не считать
 зашитую в misc оценку фактическим списанием. Указать отсутствие данных о
 фактическом списании, если API их не предоставил.
+
+Высококачественный MP3 из extract_audio может быть большим: в реальном пакете
+передача 96 МБ не уложилась в сетевой тайм-аут записи. Компактная версия
+сохраняет длительность и уменьшает объем передачи; сначала проверить ее
+ffprobe, затем заменять промежуточное аудио. Не повторять успешно выполненную
+нормализацию. Если загрузка оборвалась до ответа, проверить Request Log
+ElevenLabs прежде чем повторять оплачиваемый запрос.
 
 Полученный video.transcript.md проверить и перенести в lesson_dir/transcript.md.
 Существующий transcript.md не перезаписывать без запроса. При явно заказанной
