@@ -5,7 +5,6 @@
 **Provider:** elevenlabs (scribe_v2)
 **Estimated cost:** ~$0.0459 USD
 **Actual usage:** 230 credits
-**Billing note:** ElevenLabs balance unavailable: ELEVENLABS_API_KEY requires User Read (user_read) in addition to Speech to Text.
 
 ---
 
