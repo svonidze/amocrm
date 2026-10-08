@@ -15,3 +15,7 @@
 
 - [Партнер Bizandsoft](https://www.amocrm.ru/partners/bizandsoft).
 - [Справка по пользователям](https://www.amocrm.ru/support/user).
+
+## Локальные копии документов
+
+- [База знаний](../../../docs/amocrm/support/user.md)

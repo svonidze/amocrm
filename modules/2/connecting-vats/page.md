@@ -17,3 +17,7 @@
 - [База знаний Сипуни](https://doc.sipuni.com/?utm_source=amostart-ru&utm_medium=video&utm_campaign=lesson-amostart).
 - [Сайт Сипуни](https://sipuni.com/?utm_source=amostart-ru&utm_medium=video&utm_campaign=lesson-amostart).
 - [Партнерство Сипуни](https://chat.sipuni.com/newpartner/?utm_source=amostart-ru&utm_medium=video&utm_campaign=lesson-amostart).
+
+## Локальные копии документов
+
+- [amoCRM](../../../docs/vendors/sipuni/articles/626-627--amocrm.md)

@@ -15,3 +15,7 @@ SalesBot представлен как средство автоматизаци
 
 - [Партнер NOVA](https://www.amocrm.ru/partners/nova).
 - [Справка SalesBot](https://www.amocrm.ru/support/digital_pipline/salesbot).
+
+## Локальные копии документов
+
+- [Salesbot](../../../docs/amocrm/support/digital_pipline/salesbot.md)

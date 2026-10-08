@@ -15,3 +15,7 @@
 
 - [Партнер Genezis](https://www.amocrm.ru/partners/gnzs).
 - [Возможности платформы и API](https://www.amocrm.ru/developers/content/crm_platform/platform-abilities).
+
+## Локальные копии документов
+
+- [Возможности](../../../docs/amocrm/developers/content/crm_platform/platform-abilities.md)

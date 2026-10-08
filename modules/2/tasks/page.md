@@ -15,3 +15,7 @@
 
 - [Партнер IMD](https://www.amocrm.com.kz/partners/imd).
 - [Справка по задачам](https://www.amocrm.ru/support/tasks).
+
+## Локальные копии документов
+
+- [База знаний](../../../docs/amocrm/support/tasks.md)

@@ -1,0 +1,113 @@
+# Документация к Академии amoCRM
+
+В архиве сохранены ссылки на официальную справку из уроков модуля 2, статьи указанных разделов и документы, которые понадобились для уточнений. Новые модули дополняют этот архив.
+
+Каждая копия содержит оригинальный URL и дату сохранения. Это дата чтения, а не дата обновления документа. Текст страниц преобразован в Markdown без меню, форм входа и скриптов. Иллюстрации HTML остаются по исходным ссылкам. Для PDF сохранен текст по страницам; макет и графика доступны в оригинале. Схема на странице 11 презентации по аналитике описана после визуального просмотра.
+
+`amocrm/` содержит справку продукта и API. `vendors/` содержит документацию Sipuni и Wazzup. `academy/` содержит материалы партнеров, размещенные в Академии. Их рекомендации не следует считать спецификацией amoCRM.
+
+На 2026-10-08 сохранены 68 страниц amoCRM, 15 страниц Sipuni, 6 страниц Wazzup и 3 PDF-материала в Markdown. Основные уточнения добавлены в конспекты и [материал для экзамена](../modules/2/exam-prep.md).
+
+<!-- amocrm-docs:toc:start -->
+## amoCRM
+
+- [Короткие ссылки](amocrm/developers/content/api/short_links.md)
+- [Возможности](amocrm/developers/content/crm_platform/platform-abilities.md)
+- [Звонки](amocrm/support/analytics/analyst_calls.md)
+- [Сводный отчет](amocrm/support/analytics/consolidated_report.md)
+- [Отчет по сотрудникам](amocrm/support/analytics/employee_report.md)
+- [Фильтры в Аналитике](amocrm/support/analytics/filters_in_analytics.md)
+- [Список событий](amocrm/support/analytics/list_events.md)
+- [Цели](amocrm/support/analytics/objectives.md)
+- [Остались вопросы по аналитике?](amocrm/support/analytics/questions_about_analysis.md)
+- [Анализ продаж](amocrm/support/analytics/sales_analysis.md)
+- [База знаний](amocrm/support/analytics.md)
+- [Создание нового контакта или компании](amocrm/support/contacts_company/create_new_contact_or_company.md)
+- [Удаление и восстановление контакта и компании](amocrm/support/contacts_company/delete_and_recovery_remote_contact.md)
+- [Редактирование контакта и компании](amocrm/support/contacts_company/edit_contact.md)
+- [Фильтры в Списках](amocrm/support/contacts_company/filters_in_contacts.md)
+- [Имя и фамилия в контактах](amocrm/support/contacts_company/first_last_name.md)
+- [Остались вопросы по контактам?](amocrm/support/contacts_company/questions_about_contacts.md)
+- [Поиск и фильтрация контактов и компаний](amocrm/support/contacts_company/search_and_contact_filter.md)
+- [Настройки таблицы контактов и компаний](amocrm/support/contacts_company/table_settings_contacts.md)
+- [База знаний](amocrm/support/contacts_company.md)
+- [Salesbot](amocrm/support/digital_pipline/salesbot.md)
+- [Аналитика по Неразобранному](amocrm/support/incoming_leads/analysis_of_unsorted.md)
+- [Автообработка писем (парсинг) и Неразобранное](amocrm/support/incoming_leads/autoworking_letters_unsorted.md)
+- [Интеграция с сервисом Avito](amocrm/support/incoming_leads/avito.md)
+- [Телефония в Неразобранном](amocrm/support/incoming_leads/caller_in_unsorted.md)
+- [Чат Telegram](amocrm/support/incoming_leads/chat_tgrm.md)
+- [Чат Вконтакте](amocrm/support/incoming_leads/chat_vk.md)
+- [Подключение Неразобранного](amocrm/support/incoming_leads/connect_unsorted.md)
+- [CRM plugin (кнопка)](amocrm/support/incoming_leads/dp_button.md)
+- [Форма для сайта и Неразобранное](amocrm/support/incoming_leads/form_for_site_and_unsorted.md)
+- [Контроль дублей](amocrm/support/incoming_leads/kontrol-dublej.md)
+- [Логика отображения Неразобранного](amocrm/support/incoming_leads/logic_of_show_unsorted.md)
+- [Почта в Неразобранном](amocrm/support/incoming_leads/mail_in_unsorted.md)
+- [MAX](amocrm/support/incoming_leads/max.md)
+- [Онлайн-чат](amocrm/support/incoming_leads/onlinechat.md)
+- [Переименование источников](amocrm/support/incoming_leads/rename_insorted.md)
+- [Сайт визитка](amocrm/support/incoming_leads/sajt-vizitka.md)
+- [VK Leads ADS](amocrm/support/incoming_leads/vk_leads_ads.md)
+- [База знаний](amocrm/support/incoming_leads.md)
+- [Цифровая воронка](amocrm/support/starting_work/digital_pipeline.md)
+- [Настройка воронки](amocrm/support/starting_work/pipeline.md)
+- [Автоматические действия с задачами](amocrm/support/tasks/auto_action_tasks.md)
+- [Создание новой задачи](amocrm/support/tasks/create_new_task.md)
+- [Редактирование задачи](amocrm/support/tasks/edit_task.md)
+- [Экспорт задач](amocrm/support/tasks/export_tasks.md)
+- [Фильтры в Задачах](amocrm/support/tasks/filters_in_tasks.md)
+- [Ошибки интеграции с Google Calendar](amocrm/support/tasks/google-calendar-errors.md)
+- [Остались вопросы по задачам?](amocrm/support/tasks/questions_about_tasks.md)
+- [Поиск и просмотр задачи](amocrm/support/tasks/search_and_view_task.md)
+- [Настройка напоминаний о задачах](amocrm/support/tasks/setting_reminder_of_tasks.md)
+- [Настройка таблицы списка задач](amocrm/support/tasks/setting_table_of_task_list.md)
+- [Аналитика и статистика по задачам](amocrm/support/tasks/task_analyst.md)
+- [Отображение задач в разделе “Сделки”](amocrm/support/tasks/tasks_in_leads.md)
+- [База знаний](amocrm/support/tasks.md)
+- [Мониторинг активности](amocrm/support/user/activity_monitoring.md)
+- [Лог авторизаций и белый список ip-адресов](amocrm/support/user/authorization_log.md)
+- [Создание группы пользователей](amocrm/support/user/create_user_groups.md)
+- [Создание пользователя](amocrm/support/user/create_users.md)
+- [Удаление пользователя/отключение активности](amocrm/support/user/delete_users_off_active.md)
+- [Настройка видимости разделов](amocrm/support/user/edit_left_section_list.md)
+- [Редактирование пользователя](amocrm/support/user/edit_users.md)
+- [Как изменить e-mail пользователя и пароль?](amocrm/support/user/login.md)
+- [Настроить отдельный доступ к воронке](amocrm/support/user/prava_user_voronka.md)
+- [Остались вопросы по пользователям?](amocrm/support/user/questions_about_users.md)
+- [Уровни и взаимосвязь прав пользователей](amocrm/support/user/setting_right_level_users.md)
+- [Настройка прав пользователя](amocrm/support/user/setting_right_users.md)
+- [Фильтры в пользователях](amocrm/support/user/user_filters.md)
+- [База знаний](amocrm/support/user.md)
+
+## Документация поставщиков
+
+- [amoCRM](vendors/sipuni/articles/626-627--amocrm.md)
+- [amoCall](vendors/sipuni/articles/626-627-1393--amocall.md)
+- [Как настроить Webhooks для передачи данных в amoCRM](vendors/sipuni/articles/626-627-1431--api-webhooks.md)
+- [Как включить amoCall сотрудникам](vendors/sipuni/articles/626-627-1486--kak-vklyuchit-amocall-sotrudnikam.md)
+- [Как работать в amoCall](vendors/sipuni/articles/626-627-1487--kak-rabotat-v-amocall.md)
+- [Как подключить интеграцию с amoCRM](vendors/sipuni/articles/626-627-1500--amocrm.md)
+- [Настройки интеграции с amoCRM](vendors/sipuni/articles/626-627-1507--nastrojki-integracii-s-amocrm.md)
+- [Подключение нескольких кабинетов Сипуни к одной amoCRM](vendors/sipuni/articles/626-627-1512--podklyuchenie-neskolkih-kabinetov-sipuni-k-odnoj-amocrm.md)
+- [AMO Webhooks](vendors/sipuni/articles/626-627-1513--amo-webhooks.md)
+- [Настройка воронок и назначение ответственных в amoCRM](vendors/sipuni/articles/626-627-1518--nastrojka-voronok-i-naznachenie-otvetstvennyh-v-amocrm.md)
+- [Очистка браузера (общий кэш и cookie amoCRM)](vendors/sipuni/articles/626-627-712--ochistka-brauzera-obshij-kesh-i-cookie-amocrm.md)
+- [Сценарии интеграции amoCRM](vendors/sipuni/articles/626-627-719--scenarii-integracii-amocrm.md)
+- [Неразобранное в amoCRM: как работает и настраивается в Сипуни](vendors/sipuni/articles/626-627-720--nerazobrannoe.md)
+- [Как получить ключ доступа для авторизации в приложении Сипуни](vendors/sipuni/articles/654-1502-1457--kak-poluchit-klyuch-dostupa-dlya-avtorizacii-v-prilozhenii-sipuni.md)
+- [Как работать в приложении Сипуни](vendors/sipuni/articles/654-1502-1466--kak-rabotat-v-prilozhenii-sipuni.md)
+- [Выполните дополнительные настройки интеграции с amoCRM](vendors/wazzup/help/amocrm/dopolnitelno-dobejte-melkie-no-vazhnye-nastrojki-dlya-raboty-integracii-2.md)
+- [Как написать клиенту с помощью Salesbot](vendors/wazzup/help/amocrm/kak-napisat-klientu-v-whatsapp-s-pomoshhju-salesbot.md)
+- [Salesbot отправляет несколько сообщений одному контакту](vendors/wazzup/help/amocrm/salesbot-sends-multiple-messages-to-one-contact-ru.md)
+- [Настройте интеграцию с amoCRM](vendors/wazzup/help/amocrm/zatem-nastrojte-integraciju.md)
+- [Как назначить роли сотрудникам и не запутаться в чатах](vendors/wazzup/help/how-to-use/kak-naznachit-roli-sotrudnikam-v-wazzup-i-ne-zaputatsya-v-chatah.md)
+- [Как работать со счетчиком неотвеченных](vendors/wazzup/help/how-to-use/unanswered-counter.md)
+
+## Материалы Академии
+
+- [10 вопросов для продажи в мессенджерах](academy/module-2/10-voprosov-dlya-prodazhi.md)
+- [8 этапов продаж в мессенджерах](academy/module-2/8-etapov-prodazh-v-messendzherah.md)
+- [Аналитика в amoCRM](academy/module-2/analitika-v-amocrm.md)
+
+<!-- amocrm-docs:toc:end -->

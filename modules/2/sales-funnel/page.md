@@ -16,3 +16,7 @@
 - [Справка по воронке продаж](https://www.amocrm.ru/support/starting_work/pipeline).
 - [Партнер Open Group](https://www.amocrm.ru/partners/opengroup).
 - [Запись на экзамен](https://planerka.app/meet/amostart/gr-1-exam1).
+
+## Локальные копии документов
+
+- [Настройка воронки](../../../docs/amocrm/support/starting_work/pipeline.md)

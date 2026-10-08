@@ -15,3 +15,7 @@
 
 - [Справка по входящим заявкам](https://www.amocrm.ru/support/incoming_leads).
 - [Партнер iFabrique](https://www.amocrm.ru/partners/ifabrique).
+
+## Локальные копии документов
+
+- [База знаний](../../../docs/amocrm/support/incoming_leads.md)

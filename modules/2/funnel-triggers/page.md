@@ -15,3 +15,7 @@ Digital Pipeline автоматизирует действия на этапах
 
 - [Партнер F5](https://www.amocrm.ru/partners/comf5).
 - [Справка Digital Pipeline](https://www.amocrm.ru/support/starting_work/digital_pipeline).
+
+## Локальные копии документов
+
+- [Цифровая воронка](../../../docs/amocrm/support/starting_work/digital_pipeline.md)

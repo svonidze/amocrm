@@ -22,3 +22,7 @@
 - [Запись на экзамен amoSTART](https://planerka.app/meet/amostart/gr-1-exam1).
 
 Описание страницы является дополнительным источником к [транскрипту](transcript.md) и [конспекту](summary.md).
+
+## Локальные копии документов
+
+- [База знаний](../../../docs/amocrm/support/contacts_company.md)
