@@ -8,7 +8,9 @@
 
 Для модуля 2 на 2026-10-08 сохранены 68 страниц amoCRM, 15 страниц Sipuni, 6 страниц Wazzup и 3 PDF-материала в Markdown. Основные уточнения добавлены в конспекты и [материал для экзамена](../modules/2/exam-prep.md).
 
-Модуль 3 добавляет 40 копий вложений и материалов из видео, соглашение amoCRM, страницы партнеров и поставщиков, а также уточнение расчета NPS. В 17 PDF извлечен текст 337 страниц; таблицы и схемы сверены с изображениями. Секретные значения из двух учебных примеров исключены. [Проверка и ограничения модуля 3](../modules/3/README.md).
+Модуль 3 добавляет 40 копий вложений и материалов из видео, соглашение amoCRM, страницы партнеров и поставщиков, а также уточнение расчета NPS. В 17 PDF-вложениях Академии извлечен текст 337 страниц; таблицы и схемы сверены с изображениями. Секретные значения из двух учебных примеров исключены. [Проверка и ограничения модуля 3](../modules/3/README.md).
+
+2026-10-09 добавлена [копия профиля ROCKET.red в VK](vendors/vk.com/rocket_red.md) по двум PDF, переданным пользователем. Проверены все 10 страниц, ограничения печати сохранены в копии. Пробел по уроку 13 закрыт.
 
 <!-- amocrm-docs:toc:start -->
 ## amoCRM
@@ -113,6 +115,7 @@
 - [Telegram: Contact @georgiykichev](vendors/t.me/georgiykichev.md)
 - [Telegram: Contact @kuznetsov_rocket](vendors/t.me/kuznetsov_rocket.md)
 - [Онлайн-бухгалтерия Точка Банка](vendors/tochka.com/accounting.md)
+- [ROCKET.red в VK: описание, услуги и публикации](vendors/vk.com/rocket_red.md)
 - [Выполните дополнительные настройки интеграции с amoCRM](vendors/wazzup/help/amocrm/dopolnitelno-dobejte-melkie-no-vazhnye-nastrojki-dlya-raboty-integracii-2.md)
 - [Как написать клиенту с помощью Salesbot](vendors/wazzup/help/amocrm/kak-napisat-klientu-v-whatsapp-s-pomoshhju-salesbot.md)
 - [Salesbot отправляет несколько сообщений одному контакту](vendors/wazzup/help/amocrm/salesbot-sends-multiple-messages-to-one-contact-ru.md)
@@ -167,7 +170,4 @@
 - [Пример 2 шаблона Плана работ ООО _Целюлитпро_ План работ](academy/module-3/work-plan--cde0513cd047.md)
 - [Урок 6. План работ](academy/module-3/work-plan--d6aadb5caf52.md)
 
-## Недоступные источники
-
-- [Профиль ROCKET.red в VK](https://vk.com/rocket_red): Политика безопасности браузера запрещает чтение; связан с уроком 13 «Упаковка бизнеса».
 <!-- amocrm-docs:toc:end -->
