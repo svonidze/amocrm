@@ -4,13 +4,16 @@
 
 Каждая копия содержит оригинальный URL и дату сохранения. Это дата чтения, а не дата обновления документа. Текст страниц преобразован в Markdown без меню, форм входа и скриптов. Иллюстрации HTML остаются по исходным ссылкам. Для PDF сохранен текст по страницам; макет и графика доступны в оригинале. Схема на странице 11 презентации по аналитике описана после визуального просмотра.
 
-`amocrm/` содержит справку продукта и API. `vendors/` содержит документацию Sipuni и Wazzup. `academy/` содержит материалы партнеров, размещенные в Академии. Их рекомендации не следует считать спецификацией amoCRM.
+`amocrm/` содержит справку продукта и API. `vendors/` содержит документацию Sipuni и Wazzup, материалы банков и других поставщиков из уроков модуля 3. `academy/` содержит материалы партнеров, размещенные в Академии. Их рекомендации не следует считать спецификацией amoCRM.
 
-На 2026-10-08 сохранены 68 страниц amoCRM, 15 страниц Sipuni, 6 страниц Wazzup и 3 PDF-материала в Markdown. Основные уточнения добавлены в конспекты и [материал для экзамена](../modules/2/exam-prep.md).
+Для модуля 2 на 2026-10-08 сохранены 68 страниц amoCRM, 15 страниц Sipuni, 6 страниц Wazzup и 3 PDF-материала в Markdown. Основные уточнения добавлены в конспекты и [материал для экзамена](../modules/2/exam-prep.md).
+
+Модуль 3 добавляет 40 копий вложений и материалов из видео, соглашение amoCRM, страницы партнеров и поставщиков, а также уточнение расчета NPS. В 17 PDF извлечен текст 337 страниц; таблицы и схемы сверены с изображениями. Секретные значения из двух учебных примеров исключены. [Проверка и ограничения модуля 3](../modules/3/README.md).
 
 <!-- amocrm-docs:toc:start -->
 ## amoCRM
 
+- [Лицензионное соглашение amoCRM](amocrm/agreement.md)
 - [Короткие ссылки](amocrm/developers/content/api/short_links.md)
 - [Возможности](amocrm/developers/content/crm_platform/platform-abilities.md)
 - [Звонки](amocrm/support/analytics/analyst_calls.md)
@@ -82,6 +85,16 @@
 
 ## Документация поставщиков
 
+- [Первый сервис финансового учета для бизнеса с ИИ-агентом](vendors/adesk.ru/index.md)
+- [ООО "Генезис"](vendors/amocrm.ru/partners/gnzs.md)
+- [ООО Ингруппа](vendors/amocrm.ru/partners/ingru.md)
+- [Интроверт Системс](vendors/amocrm.ru/partners/introvert.md)
+- [ROCKET.red](vendors/amocrm.ru/partners/rocket.md)
+- [Интегратор amoCRM «Команда F5» — автоматизация отдела продаж](vendors/cmdf5.ru/index.md)
+- [12 лет строим IT-системы продаж для среднего и крупного бизнеса.](vendors/introvert.bz/index.md)
+- [Расчет Net Promoter Score](vendors/netpromotersystem.com/about/measuring-your-net-promoter-score.md)
+- [7 базовых типов воронки продаж: этапы и примеры автоматизации](vendors/rocket.red/blog-posts/7-bazovyh-tipov-voronki-prodazh.md)
+- [Строим IT-системы продаж на базе amoCRM](vendors/rocket.red/index.md)
 - [amoCRM](vendors/sipuni/articles/626-627--amocrm.md)
 - [amoCall](vendors/sipuni/articles/626-627-1393--amocall.md)
 - [Как настроить Webhooks для передачи данных в amoCRM](vendors/sipuni/articles/626-627-1431--api-webhooks.md)
@@ -97,17 +110,64 @@
 - [Неразобранное в amoCRM: как работает и настраивается в Сипуни](vendors/sipuni/articles/626-627-720--nerazobrannoe.md)
 - [Как получить ключ доступа для авторизации в приложении Сипуни](vendors/sipuni/articles/654-1502-1457--kak-poluchit-klyuch-dostupa-dlya-avtorizacii-v-prilozhenii-sipuni.md)
 - [Как работать в приложении Сипуни](vendors/sipuni/articles/654-1502-1466--kak-rabotat-v-prilozhenii-sipuni.md)
+- [Telegram: Contact @georgiykichev](vendors/t.me/georgiykichev.md)
+- [Telegram: Contact @kuznetsov_rocket](vendors/t.me/kuznetsov_rocket.md)
+- [Онлайн-бухгалтерия Точка Банка](vendors/tochka.com/accounting.md)
 - [Выполните дополнительные настройки интеграции с amoCRM](vendors/wazzup/help/amocrm/dopolnitelno-dobejte-melkie-no-vazhnye-nastrojki-dlya-raboty-integracii-2.md)
 - [Как написать клиенту с помощью Salesbot](vendors/wazzup/help/amocrm/kak-napisat-klientu-v-whatsapp-s-pomoshhju-salesbot.md)
 - [Salesbot отправляет несколько сообщений одному контакту](vendors/wazzup/help/amocrm/salesbot-sends-multiple-messages-to-one-contact-ru.md)
 - [Настройте интеграцию с amoCRM](vendors/wazzup/help/amocrm/zatem-nastrojte-integraciju.md)
 - [Как назначить роли сотрудникам и не запутаться в чатах](vendors/wazzup/help/how-to-use/kak-naznachit-roli-sotrudnikam-v-wazzup-i-ne-zaputatsya-v-chatah.md)
 - [Как работать со счетчиком неотвеченных](vendors/wazzup/help/how-to-use/unanswered-counter.md)
+- [Публичный YouTube-канал ROCKET.red](vendors/youtube.com/@rocketred.md)
 
 ## Материалы Академии
 
 - [10 вопросов для продажи в мессенджерах](academy/module-2/10-voprosov-dlya-prodazhi.md)
 - [8 этапов продаж в мессенджерах](academy/module-2/8-etapov-prodazh-v-messendzherah.md)
 - [Аналитика в amoCRM](academy/module-2/analitika-v-amocrm.md)
+- [Точка. Вид отчетности и сроки сдачи](academy/module-3/accounting--25b9e46213c5.md)
+- [пример BPMN](academy/module-3/bpmn--94ad72cc8036.md)
+- [Урок 5. BPMN 2.0](academy/module-3/bpmn--fb9b2a1e116a.md)
+- [Урок 2. Этап анализа. Бриф](academy/module-3/brief-step--8803def9f4f5.md)
+- [Шаблон пример _ Бриф](academy/module-3/brief-step--9d5ccbcd70a9.md)
+- [Шаблон _ Бриф и сбор требований](academy/module-3/brief-step--f600715c99ed.md)
+- [Пример шаблона комплексного внедрения amoCRM](academy/module-3/client-service--d3c7625b379c.md)
+- [Урок 1. Правила Коммуникации с Заказчиком](academy/module-3/communication--b804f3130787.md)
+- [Методы управления проектами](academy/module-3/management-introduction--d295d5e3fdef.md)
+- [Точка. Подборка информационных ресурсов для самостоятельного анализа](academy/module-3/practical-advice--9a4b816703e0.md)
+- [Шаблон аудита CRM](academy/module-3/prices-and-services--audit.md)
+- [Пример коммерческого предложения интегратора amoCRM](academy/module-3/prices-and-services--proposal.md)
+- [Чек-лист квалификации / Вэлком-встреча](academy/module-3/prices-and-services--qualification.md)
+- [Ценовая матрица Introvert Systems из видео](academy/module-3/prices-and-services--slides.md)
+- [Шаблон пример _ ООО Металбурдог_Каталог процессов](academy/module-3/process-catalogue--ba8d8ddb3734.md)
+- [Шаблон _ Каталог процессов](academy/module-3/process-catalogue--d74573aacd10.md)
+- [Урок 3. Каталог процессов](academy/module-3/process-catalogue--d81b6c135c07.md)
+- [Урок 9. Оценка рисков. Управление изменениями в проекте](academy/module-3/risk-evaluation--0f98280d4781.md)
+- [Пример шаблона _ Cпецификация ОблакоКлауда](academy/module-3/specification--7bb525f14dbc.md)
+- [Бонус к шаблонам _ Шаблон_Спецификация Источники_по настройке amoCRM](academy/module-3/specification--9ebe0575ad37.md)
+- [Шаблон _ Cпецификация](academy/module-3/specification--c2e23006596a.md)
+- [Урок 4. Спецификация](academy/module-3/specification--f33d3b7f7373.md)
+- [Урок 8. Подход к обучению и адаптации сотрудников Заказчика](academy/module-3/staff-adaptation--87ae2a54109b.md)
+- [Соглашение о конфиденциальности_NDA ООО Ингруппа](academy/module-3/standard-documents--4ca5be8dcb25.md)
+- [Дополнительное соглашение ООО Ингруппа](academy/module-3/standard-documents--92c990a23c17.md)
+- [Акт выполненных работ ООО Ингруппа](academy/module-3/standard-documents--a840f42cb34c.md)
+- [Договор возмездного оказания услуг ООО Ингруппа](academy/module-3/standard-documents--aaf3648e6cc1.md)
+- [СУБЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ](academy/module-3/standard-documents--ccb1a6d31bd5.md)
+- [Реквизиты на фирменном бланке](academy/module-3/standard-documents--d2cb06c9d991.md)
+- [Счёт-договор на оплату лицензий ООО Ингруппа](academy/module-3/standard-documents--e49887a071d6.md)
+- [Точка. Сравнение режимов налогообложения и лимиты](academy/module-3/taxation--227788d82c5d.md)
+- [Точка. Налоговые ставки и отчетность](academy/module-3/taxation--98596925e47b.md)
+- [Точка. Величина налоговой ставки в 2024 и 2025 годах](academy/module-3/taxation--be932e70ccee.md)
+- [Урок 7. Подход к Настройке и тестированию amoCRM и виджетов](academy/module-3/testing-settings--363a51b78633.md)
+- [Teamly - управление задачами](academy/module-3/work-plan--06c0da532715.md)
+- [Пример 1 шаблона Плана работ ООО _Металбурдог_ _ План работ](academy/module-3/work-plan--3903c0e5407b.md)
+- [Заготовки задач Плана работ](academy/module-3/work-plan--9f5f2712227f.md)
+- [Шаблон Плана работ](academy/module-3/work-plan--b9dfe0bf9645.md)
+- [Пример 2 шаблона Плана работ ООО _Целюлитпро_ План работ](academy/module-3/work-plan--cde0513cd047.md)
+- [Урок 6. План работ](academy/module-3/work-plan--d6aadb5caf52.md)
 
+## Недоступные источники
+
+- [Профиль ROCKET.red в VK](https://vk.com/rocket_red): Политика безопасности браузера запрещает чтение; связан с уроком 13 «Упаковка бизнеса».
 <!-- amocrm-docs:toc:end -->

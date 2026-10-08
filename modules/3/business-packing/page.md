@@ -1,0 +1,43 @@
+# Упаковка бизнеса
+
+Модуль: 3, Бизнес интегратора.
+Порядок в плейлисте: 13 из 25.
+Автор: ROCKET.red.
+Длительность по плейлисту: 59:42.
+Дата чтения: 2026-10-08.
+Источник: [урок Академии](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/business-packing).
+
+## Содержание страницы
+
+Урок посвящен представлению компании через сайт и социальные сети. Для сайтов приведены ROCKET.red, Команда F5 и Introvert, для социальных сетей VK и YouTube автора. Примеры Telegram: Константин Кузнецов и Георгий Кичев. Заявленная цель: подготовить представление бизнеса для продвижения и общения с потенциальными клиентами.
+
+## Материалы
+
+- [Партнер ROCKET.red](https://www.amocrm.ru/partners/rocket)
+- [ROCKET.red](https://www.rocket.red/)
+- [Команда F5](https://cmdf5.ru/)
+- [Introvert](https://introvert.bz/)
+- [VK](https://vk.com/rocket_red)
+- [YouTube](https://www.youtube.com/rocketsales)
+- [Константин Кузнецов](https://t.me/kuznetsov_rocket)
+- [Георгий Кичев](https://t.me/georgiykichev)
+
+## Локальные копии документов
+
+Этот блок добавлен при обработке; он не является текстом исходного описания.
+
+- [ROCKET.red](../../../docs/vendors/amocrm.ru/partners/rocket.md)
+- [Строим IT-системы продаж на базе amoCRM](../../../docs/vendors/rocket.red/index.md)
+- [Интегратор amoCRM «Команда F5»: автоматизация отдела продаж](../../../docs/vendors/cmdf5.ru/index.md)
+- [12 лет строим IT-системы продаж для среднего и крупного бизнеса.](../../../docs/vendors/introvert.bz/index.md)
+- [Публичный YouTube-канал ROCKET.red](../../../docs/vendors/youtube.com/@rocketred.md)
+- [Telegram: Contact @kuznetsov_rocket](../../../docs/vendors/t.me/kuznetsov_rocket.md)
+- [Telegram: Contact @georgiykichev](../../../docs/vendors/t.me/georgiykichev.md)
+
+## Непрочитанные источники
+
+- [https://vk.com/rocket_red](https://vk.com/rocket_red): чтение запрещено политикой безопасности браузера.
+
+## Проверка медиа
+
+Видео проверено ffprobe 2026-10-08: видео и аудиодорожка присутствуют, длительность 3582.750 с. Разница с округленной длительностью плейлиста: +0.750 с. Пропущенных фрагментов в журнале загрузки нет.
