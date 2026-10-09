@@ -48,7 +48,7 @@
 | 10 | [Учет финансов. Планирование](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/planning) | 06:36 | [Страница](modules/3/planning/page.md) · [Транскрипт](modules/3/planning/transcript.md) · [Конспект](modules/3/planning/summary.md) | Готово |
 | 11 | [Работа с кадрами](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/hr-working) | 52:42 | [Страница](modules/3/hr-working/page.md) · [Транскрипт](modules/3/hr-working/transcript.md) · [Конспект](modules/3/hr-working/summary.md) | Готово |
 | 12 | [Кому и как продавать. Цены и услуги](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/prices-and-services) | 01:08:49 | [Страница](modules/3/prices-and-services/page.md) · [Транскрипт](modules/3/prices-and-services/transcript.md) · [Конспект](modules/3/prices-and-services/summary.md) | Готово |
-| 13 | [Упаковка бизнеса](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/business-packing) | 59:42 | [Страница](modules/3/business-packing/page.md) · [Транскрипт](modules/3/business-packing/transcript.md) · [Конспект](modules/3/business-packing/summary.md) | Ошибка: Справка: профиль VK заблокирован политикой безопасности браузера; четыре файла урока проверены |
+| 13 | [Упаковка бизнеса](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/business-packing) | 59:42 | [Страница](modules/3/business-packing/page.md) · [Транскрипт](modules/3/business-packing/transcript.md) · [Конспект](modules/3/business-packing/summary.md) | Готово |
 | 14 | [Маркетинг, реклама и PR](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/marketing-and-pr) | 43:43 | [Страница](modules/3/marketing-and-pr/page.md) · [Транскрипт](modules/3/marketing-and-pr/transcript.md) · [Конспект](modules/3/marketing-and-pr/summary.md) | Готово |
 | 15 | [Управление проектами. Введение](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/management-introduction) | 12:31 | [Страница](modules/3/management-introduction/page.md) · [Транскрипт](modules/3/management-introduction/transcript.md) · [Конспект](modules/3/management-introduction/summary.md) | Готово |
 | 16 | [Управление проектами. Подготовительный этап. Правила Коммуникации с Заказчиком](https://www.amocrm.ru/partners/cabinet/academy/modules/integrator-business/communication) | 29:03 | [Страница](modules/3/communication/page.md) · [Транскрипт](modules/3/communication/transcript.md) · [Конспект](modules/3/communication/summary.md) | Готово |
@@ -67,3 +67,7 @@
 ## Подготовка к экзамену по модулю 2
 
 [Единый материал для подготовки](modules/2/exam-prep.md) охватывает все 12 уроков: понятия и настройки, три практических сценария, типичные ошибки и 36 вопросов с объясненными ответами. Ключевые положения связаны с конспектами и временными метками.
+
+## Подготовка к экзамену по модулю 3
+
+[Единый материал по бизнесу интегратора](modules/3/exam-prep.md) охватывает все 25 уроков: учет и документы, финансы, команду, продажи, проектирование, обучение и клиентский сервис. В нем четыре практические ситуации, типичные ошибки и 75 вопросов с ответами и ссылками на источники. Ставки, цены и условия отделены по периодам, расхождения материалов сохранены.
